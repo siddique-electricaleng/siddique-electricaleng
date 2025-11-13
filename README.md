@@ -1,10 +1,8 @@
 ### Always a Work-In-Progress
 
-I welcome any suggestions and would love some feedback.
+I welcome any suggestions and would love some feedback. I am learning and always interested to work in the intersection of Electronics Engineering, Software Engineering and Data Science - mainly in Computer Vision, Control Systems.
 
-**siddique-electricaleng/siddique-electricaleng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working at Fiber@Home Global Ltd. - despite its downsides, it is also the only place I could go into without much background in software to pivot into software.
 - 🌱 I’m currently learning learning Go, it's concurrency features as well as Test Driven Development with Go.
 - 👯 I’m looking to collaborate on Machine learning systems
 - 🤔 I’m looking for help with my profile
